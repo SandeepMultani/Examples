@@ -1,0 +1,8 @@
+Redis NuGet packages
+StackExchange.Redis.DataTypes -> https://github.com/ArinGhazarian/StackExchange.Redis.DataTypes/tree/master/src/StackExchange.Redis.DataTypes
+
+Samples
+https://stackoverflow.com/questions/46368234/using-stackexchange-redis-in-a-asp-net-core-controller
+
+Important example
+https://github.com/garywoodfine/redis-mvc-core
